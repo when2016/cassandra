@@ -1,3 +1,4 @@
 # cassandra
 #20180304
-ssh-keygen
+
+http://www.baeldung.com/cassandra-with-java 
